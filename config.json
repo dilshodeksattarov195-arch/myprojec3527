@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheeecrypt",
+        "uuid": 10591581,
+        "checksum": "5pwnmv"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
